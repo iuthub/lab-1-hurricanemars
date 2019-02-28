@@ -1,0 +1,12 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Cache-Control": "max-stale=0", 
+    "Host": "httpbin.org", 
+    "If-Modified-Since": "Thu, 28 Feb 2019 08:45:00 GMT", 
+    "User-Agent": "Mozilla/5.0"
+  }, 
+  "origin": "87.237.236.162, 87.237.236.162", 
+  "url": "https://httpbin.org/get"
+}
